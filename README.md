@@ -10,3 +10,10 @@ Bonus章节——Gimbal Lock：[https://krasjet.github.io/quaternion/bonus_gimba
 ## Demo
 
 在`demo`目录下你可以找到一些演示用的MATLAB代码。因为MATLAB不是免费的软件，所以我将每个动画都输出成了GIF，你可以进入各个Demo的目录中观看（流量预警）。你也可以使用免费的Octave运行代码，但是性能可能不是很好。
+
+To see quartion 
+https://www.youtube.com/watch?v=d4EgbgTm0Bg&feature=youtu.be
+https://www.youtube.com/watch?v=zjMuIxRvygQ&feature=youtu.be
+
+https://www.bilibili.com/video/av33385105
+https://eater.net/quaternions/
